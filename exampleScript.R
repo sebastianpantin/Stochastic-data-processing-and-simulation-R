@@ -43,3 +43,4 @@ bb<-NULL
 for (i in 1:10){
   bb<-c(bb,i)
 }
+
