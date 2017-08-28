@@ -1,4 +1,4 @@
-<-5 #assign value to variable
+A<-5 #assign value to variable
 A=5 #alternative
 x <- c(1,2,3,4) #vector assignment (c=concatenate)
 y<-1:8 #(vector assignment)
